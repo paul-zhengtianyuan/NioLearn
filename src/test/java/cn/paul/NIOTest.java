@@ -196,7 +196,7 @@ public class NIOTest {
     }
 
     /**
-     * 10. 将数据转为字符串
+     * 10. 将数据转为字符串 理解
      */
     @Test
     public void test10(){
